@@ -1,5 +1,4 @@
-Bob Brow; pessoa1@gmail.com; 35
-Maria Pia; pessoa2@gmail.com; 27
-Joao Gomes; joao@gmail.com; 42
-
-Marcos Lima; pessoa4@gmail.com; 32
+Alex Ejidio;alex@gmail.com;35
+Ana Julia;ana@gmail.com;25
+Maria Pia;maria@gmail.com;23
+Bob Brow;bob@hotmail.com;34
